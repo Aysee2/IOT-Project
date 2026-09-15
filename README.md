@@ -117,5 +117,7 @@ This project was developed within an academic IoT engineering project exploring:
 
 ---
 
-##  Author
+##  Contributors
 Aya — IoT & AI Engineering Student
+Ayse - Iot & AI Engineering Student - IoT sensors (presence/luminosity), MQTT/Node-RED pipeline, SQLite database, with additional contributions across the project
+
